@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tugas Pertemuan 7  
 Project React + Vite untuk tugas mata kuliah Teknologi Web.
 
@@ -58,3 +59,6 @@ Silakan modifikasi sesuai kebutuhan tugas atau implementasi fitur tambahan.
 
 
 
+=======
+# Tugas-Prak-7
+>>>>>>> 3005531f05d9c220c04d7b2592a9083df90f0ec0
